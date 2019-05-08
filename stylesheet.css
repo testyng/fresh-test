@@ -1,0 +1,18 @@
+h1{
+    color: red;
+    font-family: Raleway;
+}
+header {
+    background-image: url('http://i.imgur.com/dCgHi.jpg');
+  }
+
+  h1.mastheadintro {
+    font-size: 4EM;
+    margin: 0;
+    text-align: center;
+    padding-top: Calc(3%);
+}
+
+section.introsec {
+    display: inline-block;
+}
